@@ -38,7 +38,7 @@ Example:
 - Change ```ownerName``` with your Name
 Example:
 ```bash
-"ownerName": "Nazwa",
+"ownerName": "JayDarkNet",
 ```
 - Change ```BarBarKey``` with your mhankbarbar ApiKey
 Example:
@@ -69,8 +69,8 @@ Follow The Steps Below!
 > termux-setup-storage
 (after that tap on permission)
 > apt install git -y
-> git clone https://github.com/JayDarkNet404/bot-wea-v3
-> cd bot-wea-v3
+> git clone https://github.com/JayDarkNet404/bot-wea-ganss-v3
+> cd bot-wea-ganss-v3
 > bash install.sh
 ```
 
